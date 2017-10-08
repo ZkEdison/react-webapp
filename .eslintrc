@@ -16,11 +16,11 @@
         "react"
     ],
     "rules": {
-        "indent": 'tab',
+        "indent": 0,
         "linebreak-style": 0,
-        "quotes": 'single',
+        "quotes": 0,
         "no-extra-semi": 0,
-        "semi": 'never',
+        "semi": 0,
         "no-unused-vars": 0,
         "no-console": 0,
         "no-mixed-spaces-and-tabs": 0,

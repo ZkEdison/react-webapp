@@ -3,7 +3,7 @@ var webpack = require('webpack')
 var path = require("path")
 
 module.exports = {
-    entry: path.resolve(__dirname, 'app/index.jsx'), //入口文件
+    entry: path.resolve(__dirname, 'app/index'), //入口文件
     output: { //输出文件
         path: __dirname + '/public',
         filename: 'bundle.js'
